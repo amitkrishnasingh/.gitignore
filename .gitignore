@@ -1,0 +1,4 @@
+#this is a comment 
+#ignore below files while adding to git repo
+secrets.txt
+file2.txt
